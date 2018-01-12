@@ -1,0 +1,117 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+h1 {
+  font-family: "Sigmar One";
+  color: #b20953;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 2.5rem;
+  padding-top: .145em;
+  text-transform: uppercase;
+}
+
+a {
+  font-family: Georgia, serif;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #b2a212;
+  padding: .2em .5em;
+  line-height: 1.5;
+  margin-bottom: .3em;
+  font-size: 1.125rem;
+  text-decoration: none;
+  color: #eee;
+}
+
+a:hover {
+  background-color: #cc1465;
+}
+
+li {
+  display: inline-block;
+}
+
+ul {
+  padding: 0;
+  margin-top: 0;
+  margin-bottom: 1.5em;
+}
+
+header {
+  text-align: center;
+  background-color: #ffe500;
+}
+
+h2 {
+  font-family: "Sigmar One";
+  color: #b20953;
+  text-align: left;
+  font-size: 1.7rem;
+  text-transform: uppercase;
+  margin-left: .3em;
+  margin-bottom: .6em;
+  margin-top: 1em;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
+
+figure {
+  margin-left: .75em;
+  margin-right: .75em;
+}
+
+p {
+  display: inline-block;
+  font-family: Georgia, serif;
+  color: #2f2d13;
+  text-align: left;
+  font-size: 1rem;
+  line-height: 1.5;
+  margin: .5em;
+  margin-bottom: 3em;
+}
+
+body {
+  margin: 0;
+}
+
+footer {
+  background-color: #ffe500;
+  padding: .75em;
+  margin: 0;
+  text-align: center;
+}
+
+.current {
+  background-color: #cc1465;
+}
+
+.grapes {
+  margin-bottom: .7em;
+}
+
+.grapes-par {
+  margin-bottom: 1em:
+}
+
+.blueberries {
+  margin-bottom: .75em;
+}
+
+.blueberries-par {
+  margin-bottom: .75em;
+}
+
+.red-par {
+  margin-bottom: 1em;
+}
